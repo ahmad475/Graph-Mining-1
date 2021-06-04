@@ -13,7 +13,7 @@ In this section I have created 3 Erdős-Rényi random graph models
 and for each of these models I have generated 1000 nodes and about
 10,000 edges for each of the graphs.
 
-**Part 2 BARABÁSI–ALBERT PREFERENTIAL ATTACHMENT MODEL:*
+**Part 2 BARABÁSI–ALBERT PREFERENTIAL ATTACHMENT MODEL:**
 
 In this section I have created 3 W Barabási–Albert preferential
 attachment models and for each of these models I have generated
