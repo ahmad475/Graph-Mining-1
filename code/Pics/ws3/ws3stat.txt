@@ -1,0 +1,14 @@
+nx.watts_strogatz_graph(1000, 20, 0.5, seed=None)
+
+Name: ws3 
+Type: Graph
+Number of nodes: 1000
+Number of edges: 10000
+Average degree:  20.0000
+
+this is Global Clustering Coefficient:
+0.10333738696415277
+This is average Shortest Path:
+2.6966746746746746
+this is diameter:
+4

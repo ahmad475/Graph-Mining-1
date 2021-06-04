@@ -1,0 +1,13 @@
+nx.barabasi_albert_graph(1000, 9, seed=None)
+
+Name: ba1
+Type: Graph
+Number of nodes: 1000
+Number of edges: 8919
+Average degree:  17.8380
+this is Global Clustering Coefficient:
+0.054335136597017344
+This is average Shortest Path:
+2.6196676676676676
+this is diameter:
+4
